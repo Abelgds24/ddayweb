@@ -1,0 +1,61 @@
+
+body {
+    background-color: #E31837;
+}
+
+.beal {
+    color: #E31837;
+    text-align: center;
+    text-decoration: none;
+    transition: .7s;
+    background-color: black;
+}
+
+
+.stats{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.playername{
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+
+.omega {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.beal:hover{
+    color: white;
+    transition: .7s;
+}
+
+
+.h22{
+    text-align: center;
+}
+
+
+.draftimg {
+    width: 263px;
+    height: 192px
+}
+
+
+.upcoming {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+
+
+.allhigh {
+    display: flex;
+    justify-content: space-evenly;
+}
